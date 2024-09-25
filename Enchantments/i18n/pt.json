@@ -1,0 +1,32 @@
+{
+  "enchantments.carving.name": "Carving",
+  "enchantments.cleaving.name": "Cleaving",
+  "enchantments.energized.name": "Chocante", // alternates: "Estático", "Senhor do Trovão"
+  "enchantments.energized.desc": "Energia accumulada: {{counter}}",
+  "enchantments.explosive.name": "Blasting",
+  "enchantments.explosive.desc": "Blast radius: {{counter}}",
+  "enchantments.mammonite.name": "Mamônico", // alternates: "Avarento"
+  "enchantments.stabbing.name": "Perfurante", // alternates: "Fencing", "Lunging", "Stabbing"
+  "enchantments.steadfast.name": "Steadfast",
+  "enchantments.sunburst.name": "Explosão Solar",
+  "enchantments.vampiric.name": "Vampírico", // alternates: "Sedento por Sanguw"
+  "enchantments.wabbajack.name": "Wabbajack",
+  "enchantments.chilling.name": "Congelante", // alternates: "Freljord"
+  "enchantments.quincy.name": "Quincy",
+  "enchantments.runaan.name": "Reververante", // alternates: "Ecoante"
+
+
+  /************
+  *** GMCM ***
+  ************/
+
+  "gmcm.gemstone_socket_style.title": "Estilo do Soquete de Gema",
+  "gmcm.gemstone_socket_style.desc": "Substitui o texto genérico padrão \"Forjado\" nas descrições das armas com ícones soquetes para gemas em vários estilos.",
+  "gmcm.socket_style.diamond": "Diamante",
+  "gmcm.socket_style.round": "Redondo",
+  "gmcm.socket_style.iridium": "Irídio",
+  "gmcm.gemstone_socket_position.title": "Posição do Soquete de Gema",
+  "gmcm.gemstone_socket_position.desc": "Determina posição relativa onde os soquetes de gema devem ser desenhados, se ativados.",
+  "gmcm.socket_position.standard": "Padrão",
+  "gmcm.socket_position.above_separator": "Acima do Separador"
+}
