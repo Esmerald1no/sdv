@@ -1,9 +1,9 @@
 {
-  "gmcm.pages.tols": "Tools",
-  "gmcm.pages.tols.axe": "Axe Settings",
-  "gmcm.pages.tols.pick": "Pickaxe Settings",
+  "gmcm.pages.tols": "Ferramentas",
+  "gmcm.pages.tols.axe": "Configurações do Machado",
+  "gmcm.pages.tols.pick": "Configurações da Picareta",
 
-  "gmcm.require_mod_key.title": "Require Mod Key",
+  "gmcm.require_mod_key.title": "Exigir Tecla Adicional",
   "gmcm.require_mod_key.desc": "Whether charging requires holding down a mod key (useful to preserve the tool-spam feature of vanilla).",
   "gmcm.mod_key.title": "Mod Key",
   "gmcm.mod_key.desc": "The key that must be held in order to charge a resource tools, if required.",
